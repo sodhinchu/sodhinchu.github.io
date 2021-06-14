@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Natural Language Processing Resources For Indian Languages"
+title: "Natural Language Processing Toolkits For Indian Languages"
 date: 2021-06-14
 ---
 
