@@ -12,7 +12,9 @@ title: Sodhinchu's blog
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% if post.excerpt != post.content %}
+        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+      {% endif %}
     </article>
   {% endfor %}
 </div>
