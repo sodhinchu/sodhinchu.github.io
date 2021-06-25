@@ -34,6 +34,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: sodhinchu@gmail.com
+  github: sodhinchu
 
 # Exclude from processing.
 # The following items will not be processed, by default.
