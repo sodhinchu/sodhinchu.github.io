@@ -35,6 +35,9 @@ theme: minima
 plugins:
   - jekyll-feed
   
+  
+permalink: /:title.html
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: sodhinchu@gmail.com
