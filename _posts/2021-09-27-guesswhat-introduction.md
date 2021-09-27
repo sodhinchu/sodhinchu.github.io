@@ -12,7 +12,7 @@ Naurally conversant systems are more transparent, interpretable and is useful in
 #### How?
 Visual dialogue systems work at the intersection of Computer Vision and Natural Language Processing. GuessWhat?! is a two-player game developed with a focus to stimulate this research area. Deeper understanding of the visual scene, strategy to generate questions, achieving the task success are key components of the system. In this game, both the players get to see a visual scene containing multiple objects. One player: The Oracle randomly assigns an object in the scene which is unknown to second player. The second player, Questioner need to identify the object through a series of questions. For all the questions, Oracle answers in yes/no and its Questioner's responsibility to keep track of the answers and generate the next questions accordingly.<br/>
 
-![image info](images/Example_Image.png)
+![image info](../images/Example_Image.png)
 <br/>
 <br/>
 The above image is taken from the paper [de Vries et al](https://arxiv.org/pdf/1611.08481.pdf). It shows how Oracle and Questioner converses and arrives at the answer.<br/>
