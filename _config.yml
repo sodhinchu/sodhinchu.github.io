@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   
   
-permalink: /:year/:month/:day/:title
+permalink: pretty
 
 # Includes an icon in the footer for each username you enter
 footer-links:
