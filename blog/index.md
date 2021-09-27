@@ -15,7 +15,7 @@ title: Sodhinchu's blog
       </div>
 
       {% if post.excerpt != post.content %}
-        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}">Read more</a>
       {% endif %}
     </article>
   {% endfor %}
