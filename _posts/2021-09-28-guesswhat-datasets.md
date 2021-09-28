@@ -21,7 +21,7 @@ All questions have binary answers (yes/no/na) and distributed as 52.2% No, 45.6%
 The baseline code is available [here](https://github.com/GuessWhatGame/guesswhat) <br/>
 
 An example from the dataset is shown below<br/>
-![image info](images/gw_sample.png)
+![image info](../images/gw_sample.png)
 <br/>
 <br/>
 <br/>
@@ -40,7 +40,7 @@ Dataset can be downloaded from [here](https://visualdialog.org/data) <br/>
 The source code for the [dataset curation](https://github.com/batra-mlp-lab/visdial-amt-chat) and paper are available [here](https://github.com/satwikkottur/visdial-1)<br/>
 
 An example from the dataset is shown below<br/>
-![image info](images/vid_sample.png)
+![image info](../images/vid_sample.png)
 <br/>
 <br/>
 <br/>
@@ -59,7 +59,7 @@ Dataset can be downloaded from [here](https://video-dialog.com/) <br/>
 The baseline code is available [here](https://github.com/hudaAlamri/DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge)<br/>
 
 An example from the dataset is shown below<br/>
-![image info](images/avsd_sample.png)
+![image info](../images/avsd_sample.png)
 <br/>
 <br/>
 <br/>
