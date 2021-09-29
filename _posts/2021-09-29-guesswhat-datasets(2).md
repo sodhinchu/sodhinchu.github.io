@@ -4,7 +4,7 @@ title: "GuessWhat?!- Available Datasets (2/2)"
 date: 2021-09-29
 ---
 
-In continuation with the previous post, here are some more datasets that are useful to work with Visual Dialogue Systems.<br/>
+In continuation with the [previous post](https://sodhinchu.github.io/2021/09/28/guesswhat-datasets/), here are some more datasets that are useful to work with Visual Dialogue Systems.<br/>
 <br/>
 ## VFD:
 The dataset was first introduced in the paper: [A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses](https://aclanthology.org/2020.emnlp-main.267.pdf)
