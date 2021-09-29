@@ -3,7 +3,7 @@ layout: post
 title: "GuessWhat?!- Available Datasets (1/2)"
 date: 2021-09-28
 ---
-Predominantly for the task-oriented visual dialogue systems, the [GuessWhat dataset](https://github.com/GuessWhatGame/guesswhat#data) has been in use. However, with the rise in popularity, new datasets have been proposed periodically to further up the game. This post(part-1 of 2 posts) discusses the present-day datasets for these systems.<br/>
+Predominantly for the task-oriented visual dialogue systems, the [GuessWhat dataset](https://github.com/GuessWhatGame/guesswhat#data) has been in use. However, with the rise in popularity, new datasets have been proposed periodically to further up the game. This post(is part-1, [part-2 here](https://sodhinchu.github.io/2021/09/29/guesswhat-datasets(2)/)) discusses the present-day datasets for these systems.<br/>
 
 
 ## GuessWhat:
