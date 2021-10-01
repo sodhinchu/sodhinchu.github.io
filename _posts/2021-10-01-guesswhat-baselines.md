@@ -39,7 +39,7 @@ Who am I? is a popular guessing game where the players use yes/no questions to g
  
  Now that we got a high level understanding of the problem, how the data looks, lets check how the network is designed.<br/>
  
- ### Modelling:<br/>
+### Modelling:<br/>
 * Oracle:<br/>
     * Single hidden layer MLP, with a Softmax layer
     * Input: Embeddings of Image(I) + Cropped Object (S) + Spatial Information + Category (c) + Current Question (q) are concatened and fed to the network
@@ -74,7 +74,7 @@ Who am I? is a popular guessing game where the players use yes/no questions to g
 Results of the proposed guesser model is given below <br/>
 ![Sample Data](/images/guesswhat_guesser_results.png)
 
- ### Authors Observations:<br/>
+### Authors Observations:<br/>
  * Nnumber of questions within a dialogue decreases exponentially, as players tend to shorten their dialogues to speed up the game
  * Average number of questions given the number of objects within an image appears to follow a function that grows at a rate between logarithmically and linearly.
  * Questioners use abstract object properties such as human/object/furniture only at the beginning of the dialogues, and quickly switch to either spatial or visual terms such as left/right, white/red or table,chair.
