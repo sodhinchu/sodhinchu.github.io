@@ -35,4 +35,9 @@ Analysis of percentage of questions per question type is given below<br/>
 - When a super-category question is answered positively, humans follow up with an object or attribute question 89.56% of the time. This trend is mirrored by all models
 - CL model uses a richer vocabulary and inventory of questions, and produces fewer repeated questions than RL
 
+**Food for thought:**
+- Rather than always starting with entity questions, can it change based on the visual scene? If so, how to feed this information to QGen Model?
+- Can the number of questions be dynamic than fixed before guesser guesses?
+- Setting a weightage to the category, which gets updated over the rounds so that repeated questions can be reduced
+
 #visual #dialog #questioner #guesser #multitask #beyond #task #success #guesswhat #task-oriented
