@@ -8,8 +8,8 @@ post: active
 <div class="post">
   {{ content }}
   
-  <!-- Post comments -->
+  <!-- Post comments
   <div class="notecomments">
     {% include comments.html %}	 
-  </div>  
+  </div>   -->
 </div>
