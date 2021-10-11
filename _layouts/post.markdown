@@ -10,6 +10,6 @@ post: active
   
   <!-- Post comments -->
   <div class="notecomments">
-    {% include comment.html %}	 
+    {% include comments.html %}	 
   </div>  
 </div>
