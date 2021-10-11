@@ -49,12 +49,19 @@ permalink: pretty
 footer-links:
   email: sodhinchu@gmail.com
   github: sodhinchu
-  
+
 comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light" # "github-dark"
-    issue_term: "pathname"
+  # 'disqus' or 'utterances' are available
+  provider:            utterances
+
+# You must install utterances github app before use.(https://github.com/apps/utterances)
+# Make sure all variables are set properly. Check below link for detail.
+# https://utteranc.es/
+utterances:
+  repo:                "LazyRen/LazyRen.github.io"
+  issue-term:          "pathname"
+  label:               "Comments"
+  theme:               "dark-blue"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
