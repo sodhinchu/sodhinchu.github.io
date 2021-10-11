@@ -35,7 +35,7 @@ Who am I? is a popular guessing game where the players use yes/no questions to g
     * Has access to the image, dialogue and the list of objects in image 
  
  A sample dialog from the dataset is shared below <br/>
- ![Sample Data](/images/guesswhat_samples.png)
+ <img src="/images/guesswhat_samples.png" alt="sample_data" class="inline" width="60%" height="30%"/>
  
  Now that we got a high level understanding of the problem, how the data looks, lets check how the network is designed.<br/>
  
@@ -72,7 +72,7 @@ Who am I? is a popular guessing game where the players use yes/no questions to g
 * A guesser based on human-generated dialogues achieved 38.7% error (This is the best model out of all experiments)
 
 Results of the proposed guesser model is given below <br/>
-![Sample Data](/images/guesswhat_guesser_results.png)
+<img src="/images/guesswhat_guesser_results.png" alt="sample_data" class="inline" width="60%" height="30%"/>
 
 ### Authors Observations:<br/>
  * Nnumber of questions within a dialogue decreases exponentially, as players tend to shorten their dialogues to speed up the game
