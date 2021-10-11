@@ -7,7 +7,6 @@ title: Sodhinchu
 ---
 
 <div class="blurb">
-	<img align="left" src="/images/Kranti_Pic.png" width="150" height="170" >
 	<h1>Hi There!</h1>
 	<p>I'm starting my #NLProc Journey. I am broadly interetsed in natural language processing, with sub themes of common sense reasoning, multimodal conversational systems, and also excited about its intersection with health and cognitive sciences.<br/><br/> This blog is to document the learnings, questions, findings and experiments.
 	  <a href="/blog"><em>Read on about my explorations...</em></a>
