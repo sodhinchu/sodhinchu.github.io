@@ -35,13 +35,26 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
    - jekyll-remote-theme
   
-  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+
 permalink: pretty
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: sodhinchu@gmail.com
   github: sodhinchu
+  
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -62,5 +75,3 @@ footer-links:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-time-machine
