@@ -13,3 +13,4 @@ post: active
     {% include comments.html %}	 
   </div>   -->
 </div>
+{% include comments.html %}
