@@ -15,9 +15,10 @@ nav ul li, footer ul li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 blockquote {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
   font-size: inherit;
   border-left: 5px solid gray;
-  padding-left: 10px;
+  padding-left: 0px;
 }
 a {
     text-decoration: none;
