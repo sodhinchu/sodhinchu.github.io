@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Sodhinchu's blog
-category: Dev
-tags: [web, jekyll]
 ---
 <div class="posts">
   {% for post in site.posts %}
