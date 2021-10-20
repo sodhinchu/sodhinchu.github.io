@@ -14,9 +14,9 @@ title: Sodhinchu's blog
         {{ post.excerpt }}
       </div>
       
-      {% if post.tags %} | 
-        {% for tag in post.tags %}
-          <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+      {% if post.categories %} | 
+        {% for category in post.categories %}
+          <a href="{{ site.baseurl }}{{ site.category_page }}#{{ category | slugify }}" class="post-tag">{{ category }}</a>
         {% endfor %}
     {% endif %}
 
