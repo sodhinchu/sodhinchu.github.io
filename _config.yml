@@ -47,6 +47,11 @@ comments:
   label: blog comment
   theme: github-light
   issue-term: pathname
+  
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
