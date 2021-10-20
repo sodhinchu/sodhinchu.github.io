@@ -21,7 +21,7 @@ title: Sodhinchu's blog
     {% endif %}
 
       {% if post.excerpt != post.content %}
-        <a href="{{ post.url }}">Read more</a>
+        <a href="#{{ post.url }}">Read more</a>
       {% endif %}
     </article>
   {% endfor %}
