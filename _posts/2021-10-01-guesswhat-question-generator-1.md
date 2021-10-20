@@ -2,7 +2,7 @@
 layout: post
 title: "GuessWhat?!- Question Generator"
 date: 2021-10-10
-categories: visual dialogue
+categories: "visual dialogue"
 ---
 
 While there are numerous research directions in task-oriented systems, I am picking the **question generator** for my reading task, as it is the crucial component in continuing the dialogue. Please check these posts ([introductory paper](https://sodhinchu.github.io/2021/10/01/guesswhat-baselines/), [available datasets](https://sodhinchu.github.io/2021/09/29/guesswhat-datasets(2)/)) for a overview of task-oriented systems.
