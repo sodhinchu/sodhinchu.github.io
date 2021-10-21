@@ -27,6 +27,12 @@ layout: feed
 				</entry>
 			{% endfor %}
 		</ul>
-	{% endfor %}		
+	{% endfor %}	
+	
+      {% if site.posts.categories %} | 
+        {% for category in site.posts.categories %}
+          <a href="{{ site.baseurl }}{{ site.category_page }}#{{ category | slugify }}" class="post-tag">{{ category }}</a>
+        {% endfor %}
+    {% endif %}	
 
 </feed>
