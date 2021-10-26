@@ -3,13 +3,13 @@ body {
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-.avatar {
+.profilepic {
   display: block;
   border-radius: 50%;
   box-sizing: border-box;
   background-color: #DDD;
   float: right;
-  width: 250px;
+  width: 180px;
   top: 1rem;
   bottom: 1rem;
   margin-left: 2rem;
@@ -23,13 +23,6 @@ body {
   }
 }
 
-
-.avatar:hover {
-  transform: scale(1.05) rotate(2deg); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-  @media (max-width: $layout-responsive-nav-cutoff - 1) {
-    transform: rotate(2deg) ;
-  }
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
