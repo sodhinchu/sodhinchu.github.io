@@ -3,4 +3,5 @@ layout: default
 title: CV
 permalink: /cv/
 ---
-<embed src="{{ site.baseurl }}/docs/Kranti_CH_Resume.pdf" type="application/pdf" width=100% height=850px />
+<iframe src="{{ site.baseurl }}/docs/Kranti_CH_Resume.pdf" width="100% height=100%"
+</iframe>
