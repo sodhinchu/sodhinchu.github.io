@@ -6,7 +6,7 @@ layout: default
 title: Sodhinchu
 ---
 
-<img src="images/Kranti_Pic.png" class="avatar" alt="Avatar" width="18%" height="27%">
+<img align="left" src="images/Kranti_Pic.png" class="avatar" alt="Avatar" width="17%" height="25%">
 
 <div class="blurb">
 	<h1>Hi There!</h1>
