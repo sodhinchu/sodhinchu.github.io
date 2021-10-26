@@ -3,6 +3,13 @@ body {
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+.avatar {
+  display: block;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
