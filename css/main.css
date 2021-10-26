@@ -42,6 +42,11 @@ blockquote {
   color: $gray;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  color: $darkerGray;
+  font-weight: bold;
+}
 
 h1 {
   font-size: 30px;
