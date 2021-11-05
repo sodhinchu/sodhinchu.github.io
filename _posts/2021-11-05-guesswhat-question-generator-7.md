@@ -3,7 +3,7 @@ layout: post
 title: "Question Generator - Hallucinating Entities in GuessWhat?!"
 date: 2021-11-05
 ---
-True to its title, the paper, [Hallucinating Entities in GuessWhat?!](https://aclanthology.org/2021.acl-srw.11.pdf) brings out how existing question generators hallucinating entities while conversing with the oracle. The below image showcases the queries for entities that are not existing in the visual scene. <br/>
+True to its title, the paper, [Hallucinating Entities in GuessWhat?!](https://aclanthology.org/2021.acl-srw.11.pdf) brings out how existing question generators hallucinating entities while conversing with the oracle. The below image showcases the queries for entities that are not existing in the visual scene. <br/><br/><br/>
 <img src="/images/hallucinating_examples.png" alt="hallucinating_examples" class="inline" width="40%" height="10%"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
