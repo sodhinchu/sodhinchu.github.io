@@ -5,7 +5,7 @@ date: 2021-11-06
 ---
 Majority of the previous works in task-oriented systems, question generator used dialogue history to generate the next question in the conversation. So far, the understanding was dialogue history, along with answers aided in anticipating the best probable future question. There is also a [paper](https://arxiv.org/pdf/2010.00361.pdf) on answer-driven visual estimation to improve the task success rate. However there is not much analysis on how the dialogue history is impacting the oracle's responses. How oracle can use dialog history? This is the theme for today's blog post. The blog post discusses about the paper, [Region under Discussion for visual dialog](https://aclanthology.org/2021.emnlp-main.390.pdf)
 <br/>
-<br/>
+
 > Authors: Mazuecos et al <br/>
 > Published: at EMNLP-2021 <br/>
 > Github Repo: [Region under Discussion for visual dialog](https://github.com/mmazuecos/Region-under-discussion-for-visual-dialog)
